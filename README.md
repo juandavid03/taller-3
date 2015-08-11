@@ -16,3 +16,9 @@ p7: si
 p8: si compila, pero no corre porque definimos el coso como un square y le pedimos propiedades que so,lo poseen los triangle
 
 p10: 
+p11:
+p12:
+p13:
+p14: si porque square hereda numberofsides de polygon, y asi puede imprimirlo.
+p15:
+p16:no, solo herencia simple
